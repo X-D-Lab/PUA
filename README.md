@@ -2,7 +2,7 @@
 
 ## 👏为什么是这个名字?
 
-基于对社会现象的观察, 我们发布两个关于PUA的小游戏, 分别是:[拒绝PUA!](https://doubao.com/bot/UpsiZqcx)和[职场攻心术: 逆境PUA挑战](https://doubao.com/bot/UpsiZqcx). 无论是学术生态还是职场生态, 我们希望大家既能够自主地学会如何反对PUA, 又能够通过换位思考的方式了解如何PUA的同时更好地反抗PUA!
+基于对社会现象的观察, 我们发布两个关于PUA的小游戏, 分别是:[拒绝PUA!](https://doubao.com/bot/UpsiZqcx)和[职场攻心术: 逆境PUA挑战](https://doubao.com/bot/qY5SFDq7). 无论是学术生态还是职场生态, 我们希望大家既能够自主地学会如何反对PUA, 又能够通过换位思考的方式了解如何PUA的同时更好地反抗PUA!
 
 ## 👨‍💻为什么只有一个README?
 
