@@ -2,7 +2,7 @@
 
 ## 👏为什么是这个名字?
 
-基于对社会现象的观察, 我们发布两个关于PUA的小游戏, 分别是:[拒绝PUA!](https://doubao.com/bot/UpsiZqcx)和[职场攻心术: 逆境PUA挑战](https://doubao.com/bot/qY5SFDq7). 无论是**学术生态**还是**职场生态**, 我们希望大家既能够自主地学会如何反对PUA, 又能够通过换位思考的方式了解如何PUA的同时更好地反抗PUA!
+基于对社会现象的观察, 我们发布两个关于PUA的小游戏, 分别是:[拒绝PUA!](https://doubao.com/bot/UpsiZqcx)和[请来PUA？](https://doubao.com/bot/qY5SFDq7). 无论是**学术生态**还是**职场生态**, 我们希望大家既能够自主地学会如何反对PUA, 又能够通过换位思考的方式了解如何PUA的同时更好地反抗PUA!
 
 ## 👨‍💻为什么只有一个README?
 
@@ -13,8 +13,8 @@
 | 平台名称 | 游戏名称 |
 | :--: | :--: |
 | 豆包 | [拒绝PUA!](https://doubao.com/bot/UpsiZqcx) |
-| 豆包 | [职场攻心术: 逆境PUA挑战](https://doubao.com/bot/qY5SFDq7) |
-| 智谱清言 | [职场攻心术: 逆境PUA挑战](https://chatglm.cn/main/gdetail/65c04b256b011e2d6c91747a) |
+| 豆包 | [请来PUA？](https://doubao.com/bot/qY5SFDq7) |
+| 智谱清言 | [请来PUA？](https://chatglm.cn/main/gdetail/65c04b256b011e2d6c91747a) |
 | 智谱清言 | [拒绝PUA!](https://chatglm.cn/main/gdetail/65c04d6c0fd018f49396f331) |
 
 ## 🤝求合作求批评求建议!
