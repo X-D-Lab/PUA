@@ -21,7 +21,9 @@
 ## 🎮 游戏体验二维码
 
 玩家可以扫描以下二维码直接体验游戏：
-![](./assets/QR_code.png)
+<p align="left">
+  <img src="./assets/QR_code.png" alt="游戏体验二维码">
+</p>
 
 ## 🚀 已经发布的平台
 
