@@ -22,7 +22,7 @@
 
 玩家可以扫描以下二维码直接体验游戏：
 <p align="left">
-  <img src="./assets/QR_code.png" alt="游戏体验二维码">
+  <img src="./assets/QR_code.png" alt="游戏体验二维码" width="200">
 </p>
 
 ## 🚀 已经发布的平台
