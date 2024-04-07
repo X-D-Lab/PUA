@@ -18,8 +18,8 @@
 
 无论你身处学术界还是职场，我们的目标是双重的：赋予玩家自主抵抗PUA策略的能力，同时通过角色切换培养共情和理解。
 
-<p align="left">
-  <img src="./assets/广告页.png" alt="宣传海报" width="200">
+<p align="center">
+  <img src="./assets/广告页.png" alt="宣传海报" width="400">
 </p>
 
 ## 🎮 游戏体验二维码
