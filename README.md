@@ -37,6 +37,7 @@
   <img src="./assets/QR_code.png" alt="游戏体验二维码" width="200">
 </p>
 
+其他体验：
 | 体验平台 | 体验地址 |
 | :--: | :--: |
 | 豆包 | [拒绝PUA!](https://doubao.com/bot/UpsiZqcx) |
