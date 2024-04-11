@@ -41,8 +41,8 @@
 | :--: | :--: |
 | 豆包 | [拒绝PUA!](https://doubao.com/bot/UpsiZqcx) |
 | 豆包 | [请来PUA?](https://doubao.com/bot/qY5SFDq7) |
-| 智谱清言 | [请来PUA?](https://chatlm.cn/main/gdetail/65c04b256b011e2d6c91747a) |
-| 智谱清言 | [拒绝PUA!](https://chatlm.cn/main/gdetail/65c04d6c0fd018f49396f331) |
+| 智谱清言 | [请来PUA?](https://chatglm.cn/main/gdetail/65c04b256b011e2d6c91747a) |
+| 智谱清言 | [拒绝PUA!](https://chatglm.cn/main/gdetail/65c04d6c0fd018f49396f331) |
 
 ## 🛠️ 研发团队
 
