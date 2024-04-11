@@ -37,6 +37,13 @@
   <img src="./assets/QR_code.png" alt="游戏体验二维码" width="200">
 </p>
 
+| 体验平台 | 体验地址 |
+| :--: | :--: |
+| 豆包 | [拒绝PUA!](https://doubao.com/bot/UpsiZqcx) |
+| 豆包 | [请来PUA?](https://doubao.com/bot/qY5SFDq7) |
+| 智谱清言 | [请来PUA?](https://chatlm.cn/main/gdetail/65c04b256b011e2d6c91747a) |
+| 智谱清言 | [拒绝PUA!](https://chatlm.cn/main/gdetail/65c04d6c0fd018f49396f331) |
+
 ## 🛠️ 研发团队
 
 本项目由华东理工大学 X-D Lab课题组发起:
