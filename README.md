@@ -44,6 +44,8 @@
 | 豆包 | [请来PUA?](https://doubao.com/bot/qY5SFDq7) |
 | 智谱清言 | [请来PUA?](https://chatglm.cn/main/gdetail/65c04b256b011e2d6c91747a) |
 | 智谱清言 | [拒绝PUA!](https://chatglm.cn/main/gdetail/65c04d6c0fd018f49396f331) |
+| 文心智能体平台 | [请来PUA](https://agents.baidu.com/agent/preview/sMMZOo2EndUNQzHrJQKlg1yYO3AfZMwD) |
+| 文心智能体平台 | [拒绝PUA](https://agents.baidu.com/agent/preview/KAZEWteKMqoJl0il9a4PrTNAvYo0eCHJ) |
 
 ## 🛠️ 研发团队
 
