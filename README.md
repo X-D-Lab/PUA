@@ -75,4 +75,4 @@
 ## 💬 WeChat Group
 
 如果您对本项目感兴趣, 亦或者在体验小游戏的过程中测出了bug或体验有问题, 且愿意和我们交流, 欢迎通过以下二维码入群! 十分感谢！
-![](./assets/wechat-group.jpg)
+![](./assets/wechat_group.jpg)
